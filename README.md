@@ -1,9 +1,14 @@
 # Code & Coffee (YVR) Homepage
 ## UNDER CONSTRUCTION
+
 ## Contribution
-- Fork the repo
-- Write your post
-- Submit a pull request
+### Memebers
+1. Fork the repo
+2. Write your post
+3. Submit a pull request
+4. 
+### Oragnizers
+1. Submit a pull request
 
 ## Other Sites
 - [Meetup](http://www.meetup.com/Code-Coffee-Vancouver/)
