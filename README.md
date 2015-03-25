@@ -9,6 +9,11 @@
 4. 
 ### Oragnizers
 1. Submit a pull request
+2. Chillax 
+
+## GitHub Pages Features
+### Link to GitHub Users
+You can @mention a GitHub username to generate a link to their profile. The resulting <a> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
 ## Other Sites
 - [Meetup](http://www.meetup.com/Code-Coffee-Vancouver/)
