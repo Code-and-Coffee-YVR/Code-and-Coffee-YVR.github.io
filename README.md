@@ -2,7 +2,7 @@
 ## UNDER CONSTRUCTION
 
 ## Contribution
-### Memebers
+### Members
 1. Fork the repo
 2. Write your post
 3. Submit a pull request
