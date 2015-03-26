@@ -28,6 +28,6 @@ Do yourself a favor and come out to Code & Coffee where you can sit down and cod
 
 _MUST HAVE: An upbeat positive attitude and have zero tolerance for stereotypes._
 
-This meetup does not accept project proposals and we are not a recruiting event.
+This meetup is not a recruiting event.
 
 Come join us on Slack! We have a [_#code-and-coffee_](https://yvrdev.slack.com/messages/code-and-coffee/) room on _Vancouver Developers_!
