@@ -15,6 +15,10 @@
 ### Link to GitHub Users
 You can @mention a GitHub username to generate a link to their profile. The resulting <a> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
 
+### Need GitHub Pages Help?
+- [Docs](https://help.github.com/pages)
+- [GitHub Support](support@github.com)
+
 ## Other Sites
 - [Meetup](http://www.meetup.com/Code-Coffee-Vancouver/)
 - [YouTube Channel](https://www.youtube.com/channel/UCQaXHorjVswT9xm8Ho7G0RQ)
