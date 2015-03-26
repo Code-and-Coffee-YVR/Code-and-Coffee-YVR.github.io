@@ -6,7 +6,7 @@
 1. Fork the repo
 2. Write your post
 3. Submit a pull request
-4. 
+
 ### Oragnizers
 1. Submit a pull request
 2. Chillax 
