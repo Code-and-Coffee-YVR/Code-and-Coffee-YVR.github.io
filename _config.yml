@@ -24,12 +24,12 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/codecoffeeyvr
-  - title: facebook
-    url:
-  - title: linkedin
-    url: http://linkedin.com/example
+  - title: slack
+    url: http://slack.vandev.com/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCQaXHorjVswT9xm8Ho7G0RQ
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/codecoffeeyvr
 
 # Postal address (add as many lines as necessary)
 address:
