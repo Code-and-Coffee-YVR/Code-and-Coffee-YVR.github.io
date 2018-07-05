@@ -4,8 +4,8 @@ Past meetups can be found [here](https://www.meetup.com/codecoffeeyvr/events/pas
 
 Year | Month | Date | Venue* | Capacity
 ---- | ----- | ---- | ----- | --------
-2018 | June | 21st | TBA |
-2018 | July | 19th | TBA |
+2018 | June | 21st | 7 Gate Ventures | 40
+2018 | July | 19th | 7 Gate Ventures | 40
 2018 | August | 16th | TBA |
 2018 | September | 20th | TBA |
 2018 | October | 18th |  TBA |
